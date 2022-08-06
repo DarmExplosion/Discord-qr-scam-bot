@@ -1,1 +1,1 @@
-neger
+juden sind schlecht
