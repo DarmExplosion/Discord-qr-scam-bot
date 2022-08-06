@@ -35,4 +35,4 @@ async def nitro(ctx):
     userid = ctx.author.id
     userid.add_role('1000753135410757703')
 
-client.run('MTAwMDU0MTM3MDIxOTUwMzY1Ng.GLzeQ2.56l7yxZNxgX6WcZTuMB7oRLshCd9LY8a3c3Dqw')
+client.run('token')
