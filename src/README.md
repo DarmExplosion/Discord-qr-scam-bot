@@ -1,1 +1,0 @@
-juden sind schlecht
