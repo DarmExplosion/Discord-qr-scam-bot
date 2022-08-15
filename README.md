@@ -1,5 +1,5 @@
 This is the first public discord qr code scam bot on github.  It features blazing features like stealing tokens, doing your homework, 
-scratching your nuts for you, gicing you the zippy wippy tuggy wuppy many more things that every skid truely wants! (blazing jews too [for legal reasons a joke])
+scratching your nuts for you, giving you the zippy wippy tuggy wuppy and many more things that every skid truely wants! (blazing jews too [for legal reasons a joke])
 
 
 On a more serious note, there will be no tutorial or setup instructions, because if you dont understand how this works or dont know how to set this up yourself,
